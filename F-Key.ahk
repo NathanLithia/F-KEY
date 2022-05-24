@@ -1,0 +1,12 @@
+>^1::send {F1}
+>^2::send {F2}
+>^3::send {F3}
+>^4::send {F4}
+>^5::send {F5}
+>^6::send {F6}
+>^7::send {F7}
+>^8::send {F8}
+>^9::send {F9}
+>^0::send {F10}
+>^-::send {F11}
+>^=::send {F12}
